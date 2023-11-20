@@ -1,0 +1,22 @@
+{
+    "name": "ziplaravelpro/ziplaravelconvertpro",
+    "autoload": {
+        "psr-4": {
+            "Ziplaravelpro\\Ziplaravelconvertpro\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bhadresh siddhapara",
+            "email": "b4bhadresh2020@gmail.com"
+        }
+    ],
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Laravelzipconvertpro\\providers\\ZipServiceProvider"
+            ]
+        }
+    }
+}
