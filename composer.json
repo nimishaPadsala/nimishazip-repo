@@ -15,7 +15,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Laravelzipconvertpro\\providers\\ZipServiceProvider"
+                "Laravelzipconvertpro\\Providers\\ZipServiceProvider"
             ]
         }
     }
